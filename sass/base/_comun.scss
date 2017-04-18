@@ -277,6 +277,10 @@ a:hover .tooltip, #resim:hover .tooltip {
     bottom: -10px;
     left: 0px;
     padding: 6px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     }
 }
 /*footer*/
